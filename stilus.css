@@ -1,0 +1,18 @@
+*{
+    text-decoration: #004400;
+    font-family: Monotype Corsiva, Times new Roman, Courier;
+}
+
+body{
+    background-color: #DDFFFF;
+}
+
+
+hr{
+    background-color: black;
+    size: 2cm;
+}
+
+tr{
+    background-color: chartreuse;
+}
